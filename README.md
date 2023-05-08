@@ -7,6 +7,10 @@ and this way you can verify your smart contract, //npx hardhat verify typedeploy
 dependencies   :
 npm i @aave/core-v3
 
+deployment  :
+npx hardhat run --network goerli scripts/deployFlashLoan.js
+npx hardhat verify typedeployedaddresshere --network goerli    
+
 
 
 
