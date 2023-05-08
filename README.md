@@ -4,6 +4,9 @@ and deploy in the terminal by using this way, .....................npx hardhat r
 and it will deploy a flash loan smart contract on sepolia
 and this way you can verify your smart contract, //npx hardhat verify typedeployedaddresshere --network goerli    
 
+dependencies   :
+npm i @aave/core-v3
+
 
 
 
