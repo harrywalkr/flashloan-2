@@ -9,6 +9,7 @@ npm i @aave/core-v3
 
 deployment  :
 npx hardhat run --network goerli scripts/deployFlashLoan.js
+
 npx hardhat verify typedeployedaddresshere --network goerli    
 
 
