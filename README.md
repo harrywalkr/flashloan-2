@@ -1,4 +1,4 @@
-This flashloan v2 is deployed on sepolia testnet network, 
+This aave flashloan v2 is deployed on sepolia testnet network, 
 aiming to make it work for you, just add your wallet private key in   hardhat config  (  accounts: ["[private key"],)
 and deploy in the terminal by using this way, .....................npx hardhat run --network goerli scripts/deployFlashLoan.js
 and it will deploy a flash loan smart contract on sepolia
